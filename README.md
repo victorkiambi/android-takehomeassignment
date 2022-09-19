@@ -1,4 +1,4 @@
-Apollo Agriculture Android Take Home Assignment
+Apollo Agriculture Android Clean architecture Take Home Assignment
 ==============
 
 Requirements
@@ -32,3 +32,20 @@ Requirements
 Feel free to use however you think best in the app, it's also available at `https://apollo-web-public.s3.eu-west-1.amazonaws.com/eng/android-takehomeassignment/weather.json` so feel free to add an API client.
 - Documentation for the API is available in `API.md` in this folder.
 - Use any libraries for Android that you want, but we will need to be able to build your code to evaluate it.
+
+
+This application is built with 
+- Jetpack Compose
+- Kotlin
+- Coroutines 
+- Flow
+- Retrofit
+- Dagger Hilt
+
+Testing
+- Mockk
+- Mockito
+- Junit4
+
+Format
+- Ktlint
