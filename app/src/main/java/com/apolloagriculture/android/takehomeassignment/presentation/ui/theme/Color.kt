@@ -1,4 +1,4 @@
-package com.apolloagriculture.android.takehomeassignment.presentation.theme
+package com.apolloagriculture.android.takehomeassignment.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

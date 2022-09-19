@@ -28,7 +28,7 @@ object AppModule {
 
     @Provides
     @Singleton
-    fun providesApolloWeatherRepository(api: ApolloApi): ApolloWeatherRepository{
+    fun providesApolloWeatherRepository(api: ApolloApi): ApolloWeatherRepository {
         return ApolloWeatherRepositoryImpl(api)
     }
 }

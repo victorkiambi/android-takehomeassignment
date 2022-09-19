@@ -9,7 +9,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.apolloagriculture.android.takehomeassignment.presentation.theme.ApolloAppTheme
+import com.apolloagriculture.android.takehomeassignment.presentation.ui.theme.ApolloAppTheme
 import com.apolloagriculture.android.takehomeassignment.presentation.weather_details.WeatherListScreen
 import dagger.hilt.android.AndroidEntryPoint
 
